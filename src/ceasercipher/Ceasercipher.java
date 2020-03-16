@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class Ceasercipher {
 
     public static int key;
-    public static int key1;
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
